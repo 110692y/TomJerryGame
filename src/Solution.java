@@ -84,6 +84,7 @@ public class Solution {
         }
 
         public void move(int distance) {
+            geoposition += distance;
         }
     }
 
